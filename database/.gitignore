@@ -1,1 +1,5 @@
 *.sqlite*
+.vscode
+.git
+.env
+.env.example
